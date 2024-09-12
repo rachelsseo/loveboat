@@ -1,2 +1,2 @@
 # loveboat
-### A demo repo for class
+## A demo repo for class
